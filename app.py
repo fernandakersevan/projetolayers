@@ -6,7 +6,7 @@ import requests
 app = Flask(__name__)
 
 # Variável para a URL base
-BASE_URL = "http://localhost:5000"
+BASE_URL = "https://projetolayers.onrender.com/"
 
 # Arquivo para armazenar URLs encurtadas
 URL_FILE = "urls.json"
